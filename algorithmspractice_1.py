@@ -8,6 +8,5 @@ def check_dups(names):
             uniques.append(check)            
     return uniques            
 
-
 names = check_dups(names)
 print(names)
