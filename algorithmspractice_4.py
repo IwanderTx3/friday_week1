@@ -1,4 +1,4 @@
-spaces = int(8)
+spaces = int(input("How tall do you want the tree? "))
 stars = int(1)
 
 while spaces > 0:
